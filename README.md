@@ -1,1 +1,1 @@
-# teletype_lib
+a collection of scripts for monome teletype
